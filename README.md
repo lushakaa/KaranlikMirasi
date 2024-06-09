@@ -1,0 +1,2 @@
+# KaranlikMirasi
+ BitirmeProjesi
